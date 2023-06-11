@@ -1,0 +1,313 @@
+[33mcommit 57c60e30d973b4bc178929da0600f2c1758cdd9c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: arslanyousafsdet <arslanyousafsdet@gmail.com>
+Date:   Sat Jun 10 11:33:57 2023 -0400
+
+    CucumerProjectB15
+
+[33mcommit 999031280bc4240bb95f3b7e354e32aa3fb30b38[m
+Author: arslanyousafsdet <arslanyousafsdet@gmail.com>
+Date:   Sat Jun 10 11:31:20 2023 -0400
+
+    CucumerProjectB15
+
+[33mcommit 0ea52b6a82b43444649e7700a8d0f27dced64b96[m
+Author: Asghar <asgharkrk@gmail.com>
+Date:   Mon May 29 11:32:36 2023 -0400
+
+    minor update to avoid error on jenkins
+
+[33mcommit f0d58c61d5e2947a135170c7fb5e89050a861e80[m
+Author: Asghar <asgharkrk@gmail.com>
+Date:   Mon May 29 11:29:58 2023 -0400
+
+    minor update to avoid error on jenkins
+
+[33mcommit 9c71dfba96334bfaff9c6f414d170c61c274d0c2[m
+Author: Asghar <asgharkrk@gmail.com>
+Date:   Mon May 29 10:44:18 2023 -0400
+
+    minor update to avoid error on jenkins
+
+[33mcommit 1d5942826573532554c1619620dfb4c13668ac31[m
+Author: Asghar <asgharkrk@gmail.com>
+Date:   Mon May 29 10:40:51 2023 -0400
+
+    Temp
+
+[33mcommit 73b2682cecdbbfe556716d7a83ae46b72d93069a[m
+Author: Asghar <asgharkrk@gmail.com>
+Date:   Mon May 29 10:37:27 2023 -0400
+
+    Temp
+
+[33mcommit 560c05eacd84d3c69eb49f777b4ba4688ea261ca[m
+Merge: 0d7e2fb 3118d97
+Author: Asghar <asgharkrk@gmail.com>
+Date:   Mon May 29 10:09:48 2023 -0400
+
+    Merge branch 'master' of https://github.com/SyntaxTechnologies/CucumberBatch15
+
+[33mcommit 0d7e2fbab2a211104f2d09fedc55e1ac780397aa[m
+Author: Asghar <asgharkrk@gmail.com>
+Date:   Mon May 29 10:06:25 2023 -0400
+
+    Temp
+
+[33mcommit 3118d97c01525e72b99790704f7468707a03b544[m
+Author: sohai <SyntaxTechnologies>
+Date:   Sun May 28 20:54:18 2023 +0530
+
+    lc28052023
+
+[33mcommit a914dd3edacf64918ccf195069fe3e321f37b390[m
+Author: sohai <SyntaxTechnologies>
+Date:   Sun May 28 20:33:34 2023 +0530
+
+    lc27052023
+
+[33mcommit 2c6be8cb20269f0c6daa8562584284255391354a[m
+Author: sohai <SyntaxTechnologies>
+Date:   Sun May 28 20:17:59 2023 +0530
+
+    lc27052023
+
+[33mcommit a5c672f92b06e68e5c93e61f72c11a12d73ae3e8[m
+Author: sohai <SyntaxTechnologies>
+Date:   Sat May 27 23:22:18 2023 +0530
+
+    lc27052023
+
+[33mcommit 2e5874de5f7082d99ce1ac87da3992d5838b0414[m
+Author: sohai <SyntaxTechnologies>
+Date:   Sat May 27 23:18:14 2023 +0530
+
+    lc27052023
+
+[33mcommit 13b7cba3c4e56ca77b2aaac3e437e18b9b1fce37[m
+Author: sohai <SyntaxTechnologies>
+Date:   Sat May 27 22:11:00 2023 +0530
+
+    lc27052023
+
+[33mcommit 190c60007a76613612562fd7b1ba9051660cfe81[m
+Author: sohai <SyntaxTechnologies>
+Date:   Sat May 27 21:46:54 2023 +0530
+
+    lc27052023
+
+[33mcommit db5ac8f21af152caf1c5f894d62b28052f991085[m
+Author: sohai <SyntaxTechnologies>
+Date:   Sat May 27 20:54:29 2023 +0530
+
+    lc27052023
+
+[33mcommit bfc0172cbccaaf33a5c78de089afcb468ad1fdc6[m
+Author: sohai <SyntaxTechnologies>
+Date:   Sat May 27 20:30:14 2023 +0530
+
+    lc27052023
+
+[33mcommit 4acb1d09bc72304410ad265dbdf2a58919f372bb[m
+Author: sohai <SyntaxTechnologies>
+Date:   Thu May 25 07:15:03 2023 +0530
+
+    lc25052023
+
+[33mcommit 8e8ae27951e2d22ed9703ae8045b74f3eef4cdf7[m
+Author: sohai <SyntaxTechnologies>
+Date:   Thu May 25 06:44:31 2023 +0530
+
+    lc25052023
+
+[33mcommit 80a75649b17d9256b691dc573570b77beba69e33[m
+Author: sohai <SyntaxTechnologies>
+Date:   Thu May 25 06:29:35 2023 +0530
+
+    lc25052023
+
+[33mcommit 630930d38983641e40c1dafd59b4ebcaf077664f[m
+Author: sohai <SyntaxTechnologies>
+Date:   Thu May 25 05:58:18 2023 +0530
+
+    lc25052023
+
+[33mcommit 168d10ce1f4e4d742b5b86680210647747bd17e9[m
+Author: sohai <SyntaxTechnologies>
+Date:   Thu May 25 05:39:22 2023 +0530
+
+    lc25052023
+
+[33mcommit 96fd525db5c3a3840740b29dffdff00d8c1a702e[m
+Author: sohai <SyntaxTechnologies>
+Date:   Thu May 25 05:09:31 2023 +0530
+
+    lc25052023
+
+[33mcommit 54ed9cfa5f551736cddeafa1e9f252671a6cc0cc[m
+Author: sohai <SyntaxTechnologies>
+Date:   Wed May 24 07:14:46 2023 +0530
+
+    lc24052023
+
+[33mcommit 7568c5c41e957be8990bdebe2eeb46b6d4491381[m
+Author: sohai <SyntaxTechnologies>
+Date:   Wed May 24 06:56:44 2023 +0530
+
+    lc24052023
+
+[33mcommit cdb859dc4631b039b622ca2aecb2d3852442eedf[m
+Author: sohai <SyntaxTechnologies>
+Date:   Wed May 24 06:01:12 2023 +0530
+
+    lc24052023
+
+[33mcommit 7d2dfc8f9b8f9bbc78353e64458eaf34f928d7cf[m
+Author: sohai <SyntaxTechnologies>
+Date:   Sat May 13 22:17:56 2023 +0530
+
+    lc13052023
+
+[33mcommit 14e38b7ca32060fdf1a7f2acdbf47afeb240bef4[m
+Author: sohai <SyntaxTechnologies>
+Date:   Sat May 13 22:13:08 2023 +0530
+
+    lc13052023
+
+[33mcommit 1066f91ac320d2d8355d89a9c92dc9b599b873d5[m
+Author: sohai <SyntaxTechnologies>
+Date:   Sat May 13 20:57:18 2023 +0530
+
+    lc13052023
+
+[33mcommit 83ec304d6184ff53154df408063e9c2d7f7fa01c[m
+Author: sohai <SyntaxTechnologies>
+Date:   Sat May 13 20:39:41 2023 +0530
+
+    lc13052023
+
+[33mcommit abd29849d50589709fb1d9ef012f4a07bef6d655[m
+Author: sohai <SyntaxTechnologies>
+Date:   Sat May 13 19:22:54 2023 +0530
+
+    lc13052023
+
+[33mcommit 1b41514cf3dc758b70f60c6b78c1ab55650cd103[m
+Author: sohai <SyntaxTechnologies>
+Date:   Sat May 13 19:20:41 2023 +0530
+
+    check commit
+
+[33mcommit 2d3f011142eeeff707e4ea0c1d2feea8584a2bca[m
+Author: Syntax <instructor@syntaxtechs.com>
+Date:   Tue May 9 23:46:00 2023 +0530
+
+    Update Login.feature
+
+[33mcommit bd7831a73b811ea0d707d7a4bda6f62d5abc2741[m
+Author: Ashish Mishra <ashish.mishra.sse@gmail.com>
+Date:   Thu Apr 20 11:01:44 2023 +0530
+
+    -Screenshot
+    -Running from pom.xml
+    -Generating Cucumber report
+    -Executing failed test cases only
+
+[33mcommit aabf1e54c2ef5f20387aad17d92ba4b904758655[m
+Author: Ashish Mishra <ashish.mishra.sse@gmail.com>
+Date:   Sun Apr 16 00:30:58 2023 +0530
+
+    -Screenshot
+    -Running from pom.xml
+    -Generating Cucumber report
+    -Executing failed test cases only
+
+[33mcommit b926c8f463e3fb9e70db2ee496811dc3ff84a035[m
+Author: Ashish Mishra <ashish.mishra.sse@gmail.com>
+Date:   Thu Apr 13 07:25:06 2023 +0530
+
+    - Page Object Model
+      -LoginPage
+      -AddEmployeePage
+      -Report Generation
+
+[33mcommit 9822010410dc14b0a0c532262ac5ef027ce92bbb[m
+Author: Ashish Mishra <ashish.mishra.sse@gmail.com>
+Date:   Thu Apr 13 06:49:10 2023 +0530
+
+    - Page Object Model
+      -LoginPage
+      -AddEmployeePage
+
+[33mcommit d4035b5cf635288a53720bd70504418b62dfffa3[m
+Author: Ashish Mishra <ashish.mishra.sse@gmail.com>
+Date:   Wed Apr 12 07:30:41 2023 +0530
+
+    -Data Table
+
+[33mcommit a78b015a9c06f2fee59c26697da0562760503680[m
+Author: Ashish Mishra <ashish.mishra.sse@gmail.com>
+Date:   Wed Apr 12 06:37:24 2023 +0530
+
+    -Data Table
+
+[33mcommit b4624f356ce7279c773788952c973792302b050c[m
+Author: Ashish Mishra <ashish.mishra.sse@gmail.com>
+Date:   Wed Apr 12 05:21:22 2023 +0530
+
+    -Scenario Outline
+
+[33mcommit db236d6e396c8f6d173535a8a205b244fefaaf91[m
+Author: Ashish Mishra <ashish.mishra.sse@gmail.com>
+Date:   Sun Apr 9 00:24:40 2023 +0530
+
+    -Search Employee
+    -Regular Expression
+
+[33mcommit cee5d396859c24e8aa6081829a0277a44dc8f491[m
+Author: Ashish Mishra <ashish.mishra.sse@gmail.com>
+Date:   Sat Apr 8 22:51:24 2023 +0530
+
+    -Search Employee
+    --Hooks
+
+[33mcommit 6a19c172e85d109883291662b6673d64382187a3[m
+Author: Ashish Mishra <ashish.mishra.sse@gmail.com>
+Date:   Sat Apr 8 21:24:25 2023 +0530
+
+    -Search Employee
+    -Common Methods
+       -doClick
+       -sendText
+       -Select Dropdown value
+
+[33mcommit 70b15e938d3fa91071de1300e7f51ef38a734fb6[m
+Author: Ashish Mishra <ashish.mishra.sse@gmail.com>
+Date:   Wed Apr 5 07:42:08 2023 +0530
+
+    -Add Employee
+    -Common Methods
+       -doClick
+       -sendText
+
+[33mcommit 44ea85d7cacbb5d0b94eac1b69da457a43d978cf[m
+Author: Ashish Mishra <ashish.mishra.sse@gmail.com>
+Date:   Mon Apr 3 00:22:02 2023 +0530
+
+    Framework Development
+    -CommonMethods
+    -Constants
+    -Properties
+
+[33mcommit 11d95bc95fb95f0b7f65e6f2a8d885047d6170b3[m
+Author: Ashish Mishra <ashish.mishra.sse@gmail.com>
+Date:   Sun Apr 2 15:20:14 2023 +0530
+
+    -Created Maven Project
+    -Added below dependencies in pom.xml
+       -Selenium
+       -Cucumber-java
+       -Cucumber-junit
+     -Created components of cucumber
+      -feature file [Login.feature]
+      -StepDefinition[Login.java]
+      -Runner[SmokeRunner.java]
